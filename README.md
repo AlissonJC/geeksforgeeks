@@ -2,8 +2,8 @@
 
 ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-2-brightgreen)
-![Easy](https://img.shields.io/badge/Easy-1-00af9b)
+![Solved](https://img.shields.io/badge/solved-3-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-2-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-1-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-0-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -20,10 +20,10 @@ header explaining the problem, the chosen approach, and the time/space complexit
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy    |   1    |
+| 🟢 Easy    |   2    |
 | 🟡 Medium  |   1    |
 | 🔴 Hard    |   0    |
-| **Total**  | **2**  |
+| **Total**  | **3**  |
 
 ## ✅ Solved
 
@@ -31,6 +31,7 @@ header explaining the problem, the chosen approach, and the time/space complexit
 |---|---------|------------|----------|
 | 1 | [Indexes of Subarray Sum](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) | 🟡 Medium | [subarray-with-given-sum.cpp](solutions/subarray-with-given-sum.cpp) |
 | 2 | [Missing in Array](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | 🟢 Easy | [missing-number-in-array.cpp](solutions/missing-number-in-array.cpp) |
+| 3 | [Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/1) | 🟢 Easy | [second-largest.cpp](solutions/second-largest.cpp) |
 
 ## 🎯 How to read these
 
