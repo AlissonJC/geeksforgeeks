@@ -2,9 +2,9 @@
 
 ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-9-brightgreen)
+![Solved](https://img.shields.io/badge/solved-10-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-4-00af9b)
-![Medium](https://img.shields.io/badge/Medium-5-ffb800)
+![Medium](https://img.shields.io/badge/Medium-6-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-0-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -21,9 +21,9 @@ header explaining the problem, the chosen approach, and the time/space complexit
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |   4    |
-| 🟡 Medium  |   5    |
+| 🟡 Medium  |   6    |
 | 🔴 Hard    |   0    |
-| **Total**  | **9**  |
+| **Total**  | **10** |
 
 ## ✅ Solved
 
@@ -38,6 +38,7 @@ header explaining the problem, the chosen approach, and the time/space complexit
 | 7 | [Duplicates in a Limited Range Array](https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1) | 🟢 Easy | [find-duplicates-in-an-array.cpp](solutions/find-duplicates-in-an-array.cpp) |
 | 8 | [Sort 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | 🟡 Medium | [sort-an-array-of-0s-1s-and-2s.cpp](solutions/sort-an-array-of-0s-1s-and-2s.cpp) |
 | 9 | [Majority Element](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1) | 🟡 Medium | [majority-element.cpp](solutions/majority-element.cpp) |
+| 10 | [Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | 🟡 Medium | [longest-sub-array-with-sum-k.cpp](solutions/longest-sub-array-with-sum-k.cpp) |
 
 ## 🎯 How to read these
 
